@@ -2,9 +2,9 @@
 
 ### 📊 Estudante de Análise de Dados
 
-Estou em transição de carreira para a área de Tecnologia, com foco em Análise de Dados.
+Estou construindo minha trajetória na área de Tecnologia, desenvolvendo conhecimentos em programação, análise e interpretação de dados.
 
-Gosto de aprender coisas novas, explorar possibilidades e transformar informações em conhecimento. Também tenho interesse em projetos que conectem tecnologia e saúde.
+Tenho interesse em transformar dados em informações úteis e explorar como a análise de dados pode contribuir para diferentes áreas, especialmente a saúde.
 
 ---
 
@@ -69,7 +69,7 @@ Projeto desenvolvido durante os estudos de Análise de Dados, utilizando dados f
 
 ---
 
-## 📫 Entre em contato
+## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielac-dos-santos/)
 
