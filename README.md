@@ -8,59 +8,41 @@ Tenho interesse em transformar dados em informações úteis e explorar como a a
 
 ---
 
-## 🧑‍💻 Sobre mim
-
-- 📚 Atualmente, participo do Bootcamp de Análise de Dados da Generation Brasil.
-- 🩺 Tenho formação na área de Enfermagem.
-- 📊 Tenho interesse em análise, organização e interpretação de dados.
-- 💻 Estou desenvolvendo meus conhecimentos em Python, SQL e outras ferramentas.
-- 🚀 Gosto de aprender na prática, desenvolvendo projetos e enfrentando novos desafios.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-### Linguagens e bancos de dados
+### 🛠️ Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A52A2A?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-800000?style=for-the-badge&logo=javascript&logoColor=white)
-
-### Ferramentas
-
-![Google Colab](https://img.shields.io/badge/Google_Colab-8B0000?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-A52A2A?style=for-the-badge&logo=googlesheets&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-800000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-800000?style=for-the-badge&logo=github&logoColor=white)
-
-### Bibliotecas utilizadas em projetos
-
-![gspread](https://img.shields.io/badge/gspread-A52A2A?style=for-the-badge)
-![Faker](https://img.shields.io/badge/Faker-800000?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-A52A2A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📚 Atualmente aprendendo
+### 📚 Atualmente aprendendo
 
-- Análise e interpretação de dados;
-- Manipulação de dados com Python;
-- Consultas e bancos de dados com SQL;
-- Organização e visualização de informações;
+- Análise e interpretação de dados.
+- Python e manipulação de dados.
+- SQL e banco de dados.
+- Visualização de dados.
 - Lógica de programação.
 
----
+### 🎯 Minha jornada
 
-## 🚀 Projetos
+Atualmente, participo do Bootcamp de Análise de Dados da Generation Brasil, onde desenvolvo conhecimentos técnicos e habilidades para ingressar no mercado de tecnologia.
 
-Aqui compartilho meus exercícios, estudos e projetos desenvolvidos durante minha jornada de aprendizado em tecnologia.
+Também trago uma experiência anterior na área da Enfermagem, que despertou meu interesse em explorar a conexão entre saúde e dados.
 
-### 🏥 Projeto Postinho de Saúde
+### 📁 Projetos
 
-Projeto desenvolvido durante os estudos de Análise de Dados, utilizando dados fictícios para simular informações relacionadas a um posto de saúde.
+Aqui compartilho meus estudos, exercícios e projetos desenvolvidos durante minha jornada de aprendizado.
 
-**Tecnologias e ferramentas utilizadas:**
+**🏥 Projeto Postinho de Saúde**
+
+Projeto desenvolvido durante o bootcamp, com uma proposta de trabalhar dados fictícios relacionados à rotina de um posto de saúde.
+
+**Ferramentas utilizadas:**
 - Python
 - Google Colab
 - Google Sheets
@@ -69,14 +51,32 @@ Projeto desenvolvido durante os estudos de Análise de Dados, utilizando dados f
 
 ---
 
-## 📫 Vamos nos conectar?
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danferas&show_icons=true&bg_color=3B101B&title_color=FFB6C1&text_color=F5E6EA&icon_color=A52A2A&border_color=800000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danferas&layout=compact&bg_color=3B101B&title_color=FFB6C1&text_color=F5E6EA&border_color=800000)
+
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielac-dos-santos/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dccarvalhodaniela@gmail.com)
 
+</div>
+
 ---
 
-<p align="center">
-  <i>Transformando dados em informações que fazem a diferença. ❤️</i>
-</p>
+<div align="center">
+
+*Transformando dados em informações que fazem a diferença.* ❤️
+
+</div>
