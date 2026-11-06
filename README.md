@@ -78,5 +78,5 @@ Projeto desenvolvido durante os estudos de Análise de Dados, utilizando dados f
 ---
 
 <p align="center">
-  <i>Um passo de cada vez, aprendendo e construindo novos caminhos. ❤️</i>
+  <i>Transformando dados em informações que fazem a diferença. ❤️</i>
 </p>
