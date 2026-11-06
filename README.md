@@ -44,9 +44,11 @@ Aqui compartilho meus estudos, exercícios e projetos desenvolvidos durante minh
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danferas&show_icons=true&theme=radical&bg_color=3B101B&title_color=FFB6C1&text_color=F5E6EA&icon_color=A52A2A&border_color=800000&include_all_commits=true)
+## 📊 Estatísticas do GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danferas&layout=compact&theme=radical&bg_color=3B101B&title_color=FFB6C1&text_color=F5E6EA&border_color=800000)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danferas&show_icons=true&theme=radical&bg_color=3B101B&title_color=FFB6C1&text_color=F5E6EA&icon_color=A52A2A&border_color=800000)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danferas&layout=compact&theme=radical&bg_color=3B101B&title_color=FFB6C1&text_color=F5E6EA&border_color=800000)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=danferas&theme=dark&background=3B101B&ring=A52A2A&fire=FF6B81&currStreakLabel=FFB6C1&sideLabels=F5E6EA&dates=E6BFC7&border=800000)
 
