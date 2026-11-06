@@ -10,13 +10,28 @@ Tenho interesse em transformar dados em informações úteis e explorar como a a
 
 ### 🛠️ Tecnologias e ferramentas
 
+**Linguagens de programação**
+
 ![Python](https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A52A2A?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-800000?style=for-the-badge&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B0000?style=for-the-badge&logo=javascript&logoColor=white)
+
+**Banco de dados**
+
+![SQL](https://img.shields.io/badge/SQL-A52A2A?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-800000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Desenvolvimento e versionamento**
+
+![Node.js](https://img.shields.io/badge/Node.js-8B0000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A52A2A?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-800000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-A52A2A?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Outras ferramentas**
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-A52A2A?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-800000?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-8B0000?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 ---
 
